@@ -4,6 +4,8 @@ collected from the Minnesota Department of Transportation
 
 Sensor data was captured every 30 seconds into individual XML files.
 
+This is 11GB when uncompressed!
+
 Mn/DOT Information for Developers: http://www.dot.state.mn.us/tmc/trafficinfo/developers.html
 
 Mn/DOT Tools for Analyzing Data: http://data.dot.state.mn.us/datatools/
