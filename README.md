@@ -1,14 +1,9 @@
-# some-random-traffic-data
+This is approximately one month of traffic sensor data 
+collected from the Minnesota Department of Transportation 
+(Mn/DOT) from 29 Aug 2007 through 29 Sep 2007.
 
-MINNESOTA DEPARTMENT OF TRANSPORTATION
-MINNEAPOLIS/SAINT PAUL, MINNESOTA, UNITED STATES
+Sensor data was captured every 30 seconds into individual XML files.
 
-Each XML file was retreived from the Minnesota Department of Transportation
-(Mn/DOT) website at 30-second intervals.  You can visit the following websites
-for information on how to read and analyze this data:
+Mn/DOT Information for Developers: http://www.dot.state.mn.us/tmc/trafficinfo/developers.html
 
-Mn/DOT Information for Developers
-http://www.dot.state.mn.us/tmc/trafficinfo/developers.html
-
-Mn/DOT Tools for Analyzing Data
-http://data.dot.state.mn.us/datatools/
+Mn/DOT Tools for Analyzing Data: http://data.dot.state.mn.us/datatools/
